@@ -1,0 +1,34 @@
+{
+  "Version": "0.5.2",
+  "Id": "a04bec1e-a8f0-4f56-b4c3-3e36ce2e5fad",
+  "AudioFilePath": "track.wav",
+  "AudioDuration": {
+    "Ticks": 1367423333
+  },
+  "EditorSetting": {
+    "ShowXOffsetScrollBar": true,
+    "XOffset": 0,
+    "JudgeLineOffsetY": 75,
+    "DisableXGridMagneticDock": false,
+    "ForceMagneticDock": true,
+    "ForceTapHoldMagneticDockToLane": false,
+    "JudgeLineAlignBeat": false,
+    "DisableTGridMagneticDock": false,
+    "EnableXOffset": true,
+    "XGridUnitSpace": 6,
+    "TGridUnitLength": 240,
+    "BeatSplit": 2,
+    "XGridDisplayMaxUnit": 40,
+    "ForceXGridMagneticDock": false,
+    "VerticalDisplayScale": 0.75,
+    "MouseWheelLength": 50,
+    "DisplayTimeFormat": 0,
+    "IsNotifying": true
+  },
+  "FumenFilePath": "fumen.nyageki",
+  "RememberLastDisplayTime": {
+    "Ticks": 514909090
+  },
+  "StoreBulletPalleteEditorDatas": {},
+  "IsNotifying": true
+}
