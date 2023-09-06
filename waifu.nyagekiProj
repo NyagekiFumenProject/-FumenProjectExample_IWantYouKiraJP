@@ -1,34 +1,49 @@
 {
-  "Version": "0.5.2",
+  "Version": "0.5.4",
   "Id": "a04bec1e-a8f0-4f56-b4c3-3e36ce2e5fad",
   "AudioFilePath": "track.wav",
   "AudioDuration": {
     "Ticks": 1367423333
   },
   "EditorSetting": {
-    "ShowXOffsetScrollBar": true,
-    "XOffset": 0,
-    "JudgeLineOffsetY": 75,
-    "DisableXGridMagneticDock": false,
-    "ForceMagneticDock": true,
-    "ForceTapHoldMagneticDockToLane": false,
-    "JudgeLineAlignBeat": false,
     "DisableTGridMagneticDock": false,
-    "EnableXOffset": true,
+    "ForceXGridMagneticDock": false,
+    "DisableXGridMagneticDock": false,
+    "ForceTapHoldMagneticDockToLane": false,
+    "ForceMagneticDock": true,
+    "JudgeLineAlignBeat": true,
     "XGridUnitSpace": 6,
     "TGridUnitLength": 240,
-    "BeatSplit": 2,
+    "BeatSplit": 4,
     "XGridDisplayMaxUnit": 40,
-    "ForceXGridMagneticDock": false,
+    "EnableXOffset": true,
+    "JudgeLineOffsetY": 75,
+    "XOffset": 0,
     "VerticalDisplayScale": 0.75,
-    "MouseWheelLength": 50,
     "DisplayTimeFormat": 0,
+    "ShowXOffsetScrollBar": true,
+    "MouseWheelLength": 50,
     "IsNotifying": true
   },
   "FumenFilePath": "fumen.nyageki",
   "RememberLastDisplayTime": {
-    "Ticks": 514909090
+    "Ticks": 743196969
   },
-  "StoreBulletPalleteEditorDatas": {},
+  "StoreBulletPalleteEditorDatas": {
+    "A0": {
+      "Name": "\u5360\u4F4D",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    }
+  },
   "IsNotifying": true
 }
