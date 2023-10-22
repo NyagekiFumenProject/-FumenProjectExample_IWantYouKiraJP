@@ -11,15 +11,16 @@
     "DisableXGridMagneticDock": false,
     "ForceTapHoldMagneticDockToLane": false,
     "ForceMagneticDock": true,
-    "JudgeLineAlignBeat": true,
+    "JudgeLineAlignBeat": false,
+    "AdjustPastedObjects": false,
     "XGridUnitSpace": 6,
     "TGridUnitLength": 240,
     "BeatSplit": 4,
-    "XGridDisplayMaxUnit": 40,
+    "XGridDisplayMaxUnit": 50,
     "EnableXOffset": true,
-    "JudgeLineOffsetY": 75,
-    "XOffset": 0,
-    "VerticalDisplayScale": 0.75,
+    "JudgeLineOffsetY": 50,
+    "XOffset": 21,
+    "VerticalDisplayScale": 1,
     "DisplayTimeFormat": 0,
     "ShowXOffsetScrollBar": true,
     "MouseWheelLength": 50,
@@ -27,11 +28,151 @@
   },
   "FumenFilePath": "fumen.nyageki",
   "RememberLastDisplayTime": {
-    "Ticks": 743196969
+    "Ticks": 878000000
   },
   "StoreBulletPalleteEditorDatas": {
     "A0": {
       "Name": "\u5360\u4F4D",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A1": {
+      "Name": "A-0",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A2": {
+      "Name": "A-1",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A3": {
+      "Name": "B-0",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A4": {
+      "Name": "B-0",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A5": {
+      "Name": "C",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A6": {
+      "Name": "D",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A7": {
+      "Name": "E-0",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A8": {
+      "Name": "E-1",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "A9": {
+      "Name": "F-0",
+      "AuxiliaryLineColor": {
+        "ColorContext": null,
+        "A": 255,
+        "R": 189,
+        "G": 183,
+        "B": 107,
+        "ScA": 1,
+        "ScR": 0.50888133,
+        "ScG": 0.4735315,
+        "ScB": 0.14702727
+      }
+    },
+    "AA": {
+      "Name": "G",
       "AuxiliaryLineColor": {
         "ColorContext": null,
         "A": 255,
