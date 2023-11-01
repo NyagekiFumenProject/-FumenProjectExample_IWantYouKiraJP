@@ -482,41 +482,41 @@ Bell	:		:	X[0,0], T[88,480]
 Bell	:		:	X[0,0], T[88,560]
 
 Bullet	:	A2	:	X[0,0], T[7,0], D[Normal]
-Bullet	:	A2	:	X[-18,0], T[7,0], D[Normal]
+Bullet	:	A2	:	X[-24,0], T[7,0], D[Normal]
 Bullet	:	A1	:	X[6,0], T[7,0], D[Normal]
 Bullet	:	A1	:	X[-12,0], T[7,0], D[Normal]
-Bullet	:	A1	:	X[0,0], T[7,0], D[Normal]
+Bullet	:	A2	:	X[-18,0], T[7,0], D[Normal]
 Bullet	:	A1	:	X[-18,0], T[7,0], D[Normal]
 Bullet	:	A1	:	X[-6,0], T[7,0], D[Normal]
 Bullet	:	A2	:	X[6,0], T[7,0], D[Normal]
 Bullet	:	A2	:	X[-6,0], T[7,0], D[Normal]
 Bullet	:	A1	:	X[-24,0], T[7,0], D[Normal]
-Bullet	:	A2	:	X[-24,0], T[7,0], D[Normal]
+Bullet	:	A1	:	X[0,0], T[7,0], D[Normal]
 Bullet	:	A2	:	X[-12,0], T[7,0], D[Normal]
-Bullet	:	A2	:	X[-12,0], T[7,480], D[Normal]
-Bullet	:	A2	:	X[24,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[12,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[18,0], T[7,480], D[Normal]
-Bullet	:	A2	:	X[18,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[24,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[-24,0], T[7,480], D[Normal]
-Bullet	:	A2	:	X[12,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[-12,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[-18,0], T[7,480], D[Normal]
-Bullet	:	A2	:	X[-18,0], T[7,480], D[Normal]
 Bullet	:	A2	:	X[-24,0], T[7,480], D[Normal]
-Bullet	:	A1	:	X[6,0], T[7,960], D[Normal]
+Bullet	:	A1	:	X[-24,0], T[7,480], D[Normal]
+Bullet	:	A1	:	X[-12,0], T[7,480], D[Normal]
+Bullet	:	A1	:	X[18,0], T[7,480], D[Normal]
+Bullet	:	A2	:	X[-18,0], T[7,480], D[Normal]
+Bullet	:	A2	:	X[-12,0], T[7,480], D[Normal]
+Bullet	:	A2	:	X[12,0], T[7,480], D[Normal]
+Bullet	:	A1	:	X[12,0], T[7,480], D[Normal]
+Bullet	:	A2	:	X[18,0], T[7,480], D[Normal]
+Bullet	:	A1	:	X[-18,0], T[7,480], D[Normal]
+Bullet	:	A2	:	X[24,0], T[7,480], D[Normal]
+Bullet	:	A1	:	X[24,0], T[7,480], D[Normal]
+Bullet	:	A2	:	X[6,0], T[7,960], D[Normal]
 Bullet	:	A2	:	X[24,0], T[7,960], D[Normal]
-Bullet	:	A1	:	X[0,0], T[7,960], D[Normal]
+Bullet	:	A1	:	X[18,0], T[7,960], D[Normal]
+Bullet	:	A2	:	X[12,0], T[7,960], D[Normal]
 Bullet	:	A2	:	X[18,0], T[7,960], D[Normal]
 Bullet	:	A2	:	X[0,0], T[7,960], D[Normal]
 Bullet	:	A1	:	X[24,0], T[7,960], D[Normal]
-Bullet	:	A2	:	X[-6,0], T[7,960], D[Normal]
 Bullet	:	A1	:	X[12,0], T[7,960], D[Normal]
-Bullet	:	A1	:	X[18,0], T[7,960], D[Normal]
-Bullet	:	A2	:	X[12,0], T[7,960], D[Normal]
+Bullet	:	A2	:	X[-6,0], T[7,960], D[Normal]
+Bullet	:	A1	:	X[6,0], T[7,960], D[Normal]
 Bullet	:	A1	:	X[-6,0], T[7,960], D[Normal]
-Bullet	:	A2	:	X[6,0], T[7,960], D[Normal]
+Bullet	:	A1	:	X[0,0], T[7,960], D[Normal]
 Bullet	:	A2	:	X[-12,0], T[7,1440], D[Normal]
 Bullet	:	A2	:	X[24,0], T[7,1440], D[Normal]
 Bullet	:	A1	:	X[24,0], T[7,1440], D[Normal]
@@ -1254,6 +1254,13 @@ CurveControlPoint	:	154	:	WLS	:	2	:	0.025	:	(T[62,240],X[-36,0])
 CurveControlPoint	:	154	:	WLS	:	6	:	0.025	:	(T[63,240],X[0,0])
 CurveControlPoint	:	154	:	WLS	:	23	:	0.025	:	(T[70,1740],X[-36,0])
 CurveControlPoint	:	154	:	WLS	:	24	:	0.025	:	(T[71,120],X[-30,0])
+CurveControlPoint	:	287	:	WLS	:	0	:	0.025	:	(T[58,1560],X[-24,0])
+CurveControlPoint	:	298	:	WLS	:	1	:	0.025	:	(T[53,720],X[5,0])	...	(T[53,720],X[-31,0])
+CurveControlPoint	:	298	:	WLS	:	2	:	0.025	:	(T[54,0],X[-43,0])	...	(T[53,1680],X[-1,0])
+CurveControlPoint	:	298	:	WLS	:	3	:	0.025	:	(T[54,480],X[-1,0])	...	(T[54,720],X[-1,0])	...	(T[54,1440],X[-31,0])
+CurveControlPoint	:	298	:	WLS	:	11	:	0.025	:	(T[56,840],X[5,0])	...	(T[56,1200],X[-37,0])
+CurveControlPoint	:	298	:	WLS	:	12	:	0.025	:	(T[57,840],X[-37,0])	...	(T[57,840],X[11,0])
+CurveControlPoint	:	298	:	WLS	:	13	:	0.025	:	(T[57,1800],X[11,0])	...	(T[57,1800],X[-31,0])	...	(T[58,600],X[-19,0])
 CurveControlPoint	:	0	:	LCS	:	1	:	0.025	:	(T[6,120],X[0,0])	...	(T[6,120],X[12,0])
 CurveControlPoint	:	21	:	LCS	:	2	:	0.025	:	(T[17,600],X[6,0])
 CurveControlPoint	:	21	:	LCS	:	4	:	0.025	:	(T[17,1320],X[-6,0])
@@ -1288,19 +1295,12 @@ CurveControlPoint	:	155	:	WRS	:	2	:	0.025	:	(T[62,1440],X[36,0])
 CurveControlPoint	:	155	:	WRS	:	3	:	0.025	:	(T[63,240],X[24,0])
 CurveControlPoint	:	155	:	WRS	:	13	:	0.025	:	(T[70,1740],X[36,0])
 CurveControlPoint	:	155	:	WRS	:	14	:	0.025	:	(T[71,120],X[30,0])
-CurveControlPoint	:	298	:	WLS	:	1	:	0.025	:	(T[53,720],X[5,0])	...	(T[53,720],X[-31,0])
-CurveControlPoint	:	298	:	WLS	:	2	:	0.025	:	(T[54,0],X[-43,0])	...	(T[53,1680],X[-1,0])
-CurveControlPoint	:	298	:	WLS	:	3	:	0.025	:	(T[54,480],X[-1,0])	...	(T[54,720],X[-1,0])	...	(T[54,1440],X[-31,0])
-CurveControlPoint	:	298	:	WLS	:	11	:	0.025	:	(T[56,840],X[5,0])	...	(T[56,1200],X[-37,0])
-CurveControlPoint	:	298	:	WLS	:	12	:	0.025	:	(T[57,840],X[-37,0])	...	(T[57,840],X[11,0])
-CurveControlPoint	:	298	:	WLS	:	13	:	0.025	:	(T[57,1800],X[11,0])	...	(T[57,1800],X[-31,0])	...	(T[58,600],X[-19,0])
+CurveControlPoint	:	288	:	WRS	:	0	:	0.025	:	(T[58,1800],X[0,0])
 CurveControlPoint	:	299	:	WRS	:	1	:	0.025	:	(T[53,720],X[31,0])	...	(T[53,720],X[-5,0])
 CurveControlPoint	:	299	:	WRS	:	2	:	0.025	:	(T[54,0],X[-17,0])	...	(T[53,1680],X[25,0])
 CurveControlPoint	:	299	:	WRS	:	3	:	0.025	:	(T[54,480],X[25,0])	...	(T[54,720],X[25,0])	...	(T[54,1440],X[-5,0])
 CurveControlPoint	:	299	:	WRS	:	11	:	0.025	:	(T[56,840],X[31,0])	...	(T[56,1200],X[-11,0])
 CurveControlPoint	:	299	:	WRS	:	12	:	0.025	:	(T[57,840],X[-11,0])	...	(T[57,840],X[37,0])
 CurveControlPoint	:	299	:	WRS	:	13	:	0.025	:	(T[57,1800],X[37,0])	...	(T[57,1800],X[-5,0])	...	(T[58,600],X[7,0])
-CurveControlPoint	:	288	:	WRS	:	0	:	0.025	:	(T[58,1800],X[0,0])
-CurveControlPoint	:	287	:	WLS	:	0	:	0.025	:	(T[58,1560],X[-24,0])
 
 

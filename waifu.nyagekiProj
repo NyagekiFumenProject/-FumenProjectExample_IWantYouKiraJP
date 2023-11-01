@@ -12,15 +12,15 @@
     "ForceTapHoldMagneticDockToLane": false,
     "ForceMagneticDock": true,
     "JudgeLineAlignBeat": false,
-    "AdjustPastedObjects": false,
+    "AdjustPastedObjects": true,
     "XGridUnitSpace": 6,
     "TGridUnitLength": 240,
     "BeatSplit": 4,
-    "XGridDisplayMaxUnit": 50,
+    "XGridDisplayMaxUnit": 40,
     "EnableXOffset": true,
-    "JudgeLineOffsetY": 50,
-    "XOffset": 21,
-    "VerticalDisplayScale": 1,
+    "JudgeLineOffsetY": 60,
+    "XOffset": 0,
+    "VerticalDisplayScale": 0.75,
     "DisplayTimeFormat": 0,
     "ShowXOffsetScrollBar": true,
     "MouseWheelLength": 50,
@@ -28,7 +28,7 @@
   },
   "FumenFilePath": "fumen.nyageki",
   "RememberLastDisplayTime": {
-    "Ticks": 878000000
+    "Ticks": 981780303
   },
   "StoreBulletPalleteEditorDatas": {
     "A0": {
